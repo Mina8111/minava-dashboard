@@ -1,7 +1,7 @@
 setuptools>=68.0.0
-flask==2.2.5
-openai==1.13.3
-numpy==1.24.4
-requests==2.32.2
-pydantic==2.6.4
+flask==3.1.1
+openai==1.88.0
+pandas==2.0.3
 python-binance==1.0.29
+telegram==0.0.1
+aiohttp==3.12.13
