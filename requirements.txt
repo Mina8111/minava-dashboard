@@ -1,4 +1,4 @@
-setuptools>=42
+setuptools>=68.0.0
 flask==2.2.5
 openai==1.13.3
 numpy==1.24.4
