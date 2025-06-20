@@ -3,5 +3,5 @@ flask==3.1.1
 openai==1.88.0
 pandas==2.2.3 --only-binary :all:
 python-binance==1.0.29
-telegram==0.0.1
+python-telegram-bot==13.15
 aiohttp==3.12.13
